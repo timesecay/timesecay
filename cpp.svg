@@ -1,0 +1,17 @@
+<svg width="220" height="120" viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="60" cy="60" r="45" stroke="#2d2d2d" stroke-width="10" fill="none"></circle>
+
+  <!-- Progress Circle (80% filled example) -->
+  <circle cx="60" cy="60" r="45" stroke="#00599C" stroke-width="10" fill="none" stroke-dasharray="283" stroke-dashoffset="56" stroke-linecap="round" transform="rotate(-90 60 60)"></circle>
+
+  <!-- C++ Text -->
+  <text x="60" y="66" text-anchor="middle" font-size="20" fill="#00599C" font-weight="bold">
+    C++
+  </text>
+
+  <!-- Years Text -->
+  <text x="130" y="68" font-size="20" fill="#ffffff" font-weight="bold">
+    4+ Years
+  </text>
+</svg>
